@@ -1,0 +1,12 @@
+body {
+    background-color: #9496dc;
+    color: #30942c;
+    font-family: monospace;
+    margin: 0;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
